@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biatldy
-- 👀 I’m interested in C+
+- 👀 I’m interested in C++
 - 🌱 I’m currently learning Python
 
 
